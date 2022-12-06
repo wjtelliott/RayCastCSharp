@@ -1,0 +1,5 @@
+bin/
+.config/
+Content/
+obj/
+Icon.ico
